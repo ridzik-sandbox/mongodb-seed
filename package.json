@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/ridzik-sandbox/mongodb-seed/issues"
   },
-  "homepage": "https://github.com/ridzik-sandbox/mongodb-seed#readme"
+  "homepage": "https://github.com/ridzik-sandbox/mongodb-seed#readme",
+  "devDependencies": {
+    "crypto-js": "^4.0.0",
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "mongodb": "^3.6.9"
+  },
+  "dependencies": {}
 }
