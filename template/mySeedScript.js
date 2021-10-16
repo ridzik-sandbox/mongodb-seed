@@ -1,4 +1,9 @@
-/* mySeedScript.js */
+/* mySeedScript.js 
+Original Script from <URL></URL>
+This script was provided through a mongoDB blog.
+It actually didn't work, at least when first attempted.
+Required adjustments but keeping this as-is for prosperity.
+*/
 
 // require the necessary libraries
 const faker = require("faker");
